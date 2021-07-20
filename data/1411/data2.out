@@ -1,0 +1,10 @@
+1..1 prime number:
+       2
+total:1
+1..10 prime number:
+       2       3       5       7
+total:4
+1..50 prime number:
+       2       3       5       7      11      13      17      19      23      29
+      31      37      41      43      47
+total:15
